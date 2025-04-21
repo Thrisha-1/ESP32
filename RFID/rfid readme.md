@@ -79,12 +79,3 @@ This project demonstrates a simple RFID-based home automation system using the E
 5. Open **Serial Monitor** at 115200 baud to view output.
 
 ---
-
-
-
-
-
-## 📃 License
-
-This project is licensed under the MIT License - free to use and modify!
-
