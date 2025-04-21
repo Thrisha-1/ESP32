@@ -1,5 +1,5 @@
 # 🔐 ESP32 RFID exp
-This project demonstrates a simple RFID-based home automation system using the ESP32. It reads RFID tags via UART and triggers different LEDs based on valid UID recognition.
+This project demonstrates a simple RFID using the ESP32. It reads RFID tags via UART and triggers different LEDs based on valid UID recognition.
 
 ---
 
